@@ -1,0 +1,18 @@
+<svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- iPad Icon -->
+  <rect x="5" y="5" width="35" height="20" rx="2" fill="url(#paint0_linear)" />
+  <rect x="7" y="7" width="31" height="16" rx="1" fill="#000000" />
+  <rect x="9" y="9" width="27" height="12" rx="1" fill="url(#paint0_linear)" />
+  <path d="M20 14L22 16L24 14Z" fill="#000000" />
+  
+  <!-- Apple Pencil Icon -->
+  <rect x="40" y="14" width="6" height="16" rx="1" fill="url(#paint0_linear)" />
+  <path d="M45 16L47 18L49 16Z" fill="url(#paint0_linear)" />
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="1.92667" y1="4.65138e-07" x2="29.7024" y2="39.0178" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#057EFF"/>
+      <stop offset="1" stop-color="#479AFF"/>
+    </linearGradient>
+  </defs>
+</svg>
